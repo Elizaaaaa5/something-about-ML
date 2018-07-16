@@ -1,7 +1,7 @@
-#episode 3#
+# episode 3#
 1. Some features are useless (50:50)
 
-#episode 4#
+# episode 4#
 Something about Pipeline
 1. spam classifier
   - x-feature (input)
@@ -14,7 +14,8 @@ Something about Pipeline
   - model (a prototype for our algorithm)
   - use training data to adjust params of our model
   - tool tensorflow playground
-#episode 5#
+  
+# episode 5#
 -scratchy version of KNearestNeighbors
 -the following is just a random algo
 `def fit (self, X_train, y_train):
@@ -35,7 +36,8 @@ Something about Pipeline
   2. con:
       slow
       hard to represent relationships between features.
-#episode 6#
+      
+# episode 6#
 train an image classifier using **TensorFlow for Poets**
 1. training data: individual dirs for different types of flowers
 2. Deep Learning
